@@ -1,0 +1,5 @@
+shortcode = "174379"
+lipa_na_mpesa_pass_key = "bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c91"
+phone_number = "254711994966"
+consumer_key = "aGd3WKTtLpL9AsvGkfi6MaLNqE5H1mCA"
+consumer_secret = "JBqhnOTuxftnTe2E"
